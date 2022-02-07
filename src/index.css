@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Sans+Thai+Looped&family=Mochiy+Pop+One&family=Roboto+Mono:wght@200&display=swap');
+html {
+  overflow-x: hidden;
+  scroll-behavior: smooth;
+}
+::-webkit-scrollbar {
+  width: 12px !important;
+}
+
+::-webkit-scrollbar-thumb {
+  border-radius: 10px;
+  background-color: tomato;
+}
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
