@@ -3,7 +3,6 @@ In this project I explored React and Tailwind to create my portfolio.
 
 # Technologies used
 - HTML
-- CSS
 --Tailwind
 - React JS
 - Git
@@ -11,4 +10,4 @@ In this project I explored React and Tailwind to create my portfolio.
 
 ## Livesite link
 
-[Portfolio](https://mymovie-finder.herokuapp.com/)
+[Portfolio](http://www.kinglogan.com/)
